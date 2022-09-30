@@ -1,4 +1,5 @@
 <?php
+include 'email.php';
 // MENANGKAP DATA YANG DI-INPUT
 $link = $_POST['link'];
 ?>
